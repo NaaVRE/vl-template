@@ -1,2 +1,6 @@
-# vl-template
-Template repository for virtual labs
+# _virtual lab name_
+_abstract_
+
+### keywords
+- _keyword1_
+- _keyword2_
